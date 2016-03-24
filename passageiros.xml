@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Passageiros xmlns="http://crunchify.com/CrunchifyCreateXMLDOM">
+<Passageiro id="1">
+<name>Eu</name>
+<name>20</name>
+</Passageiro>
+</Passageiros>
